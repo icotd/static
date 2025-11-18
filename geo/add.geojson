@@ -1,0 +1,2805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "ceed5cfcd03e",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.67918245771438,
+          9.043011063444578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "eed5cfcd03ee",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.65824385199626,
+          9.021911355522056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "ed5cfcd03ee7",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.80041907657319,
+          9.060258373695861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "d5cfcd03ee7a",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.89826672376235,
+          8.93496596775313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "5cfcd03ee7a3",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.68206512332904,
+          9.03020662215479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "cfcd03ee7a3e",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.838219277334524,
+          8.851650936824607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "fcd03ee7a3e5",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.806567989654766,
+          9.073946623264286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "cd03ee7a3e5d",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.90524799270572,
+          8.96735886363311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "d03ee7a3e5d8",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.710070335113244,
+          8.948399801602253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "03ee7a3e5d84",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.635057106086684,
+          8.917426162729377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "3ee7a3e5d846",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.758278940743146,
+          9.004013986477345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "ee7a3e5d8464",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.71859392803173,
+          8.897819848187206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "e7a3e5d8464e",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.712461468193844,
+          8.939041171135182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "7a3e5d8464ee",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.737476266497595,
+          8.964746893859582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "a3e5d8464ee4",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.72728624626872,
+          8.915425201260625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "3e5d8464ee4d",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.86938870620932,
+          8.994592746087362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "e5d8464ee4d8",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66643802540031,
+          8.92519034333789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "5d8464ee4d8b",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.697700049986324,
+          9.019243145084834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "d8464ee4d8b1",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.670685499993,
+          9.08565971131733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "8464ee4d8b19",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.79407101149085,
+          9.003733065221791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "464ee4d8b199",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.826160730615875,
+          8.88856726595563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "64ee4d8b199c",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.85217346353717,
+          8.861999185910078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "4ee4d8b199ce",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.82195664026872,
+          9.012987057561274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "ee4d8b199ced",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.90414502905273,
+          9.047509581698375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "e4d8b199cedc",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.85379707641094,
+          8.836420299293211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "4d8b199cedcd",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.78578605518717,
+          9.097773577850948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "d8b199cedcd2",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.82695226711354,
+          8.877090967885696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "8b199cedcd2d",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81079263472516,
+          9.055707392993906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "b199cedcd2d5",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.71310530302462,
+          8.97184895216444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "199cedcd2d50",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.88263759481121,
+          8.84169483470143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "99cedcd2d502",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.864133950311405,
+          8.878721105302604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "9cedcd2d502d",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.723714796693315,
+          8.933431640131413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "cedcd2d502dc",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.68040616091714,
+          8.935288553685268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "edcd2d502dcf",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.71585814309675,
+          9.10040719007107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "dcd2d502dcf2",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.80021658976783,
+          8.91951054695501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "cd2d502dcf24",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.632584156594376,
+          8.876611161461577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "d2d502dcf245",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.870501315147635,
+          8.934452355902872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "2d502dcf245e",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.83774299895611,
+          9.062406004302293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "d502dcf245ec",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.745653971843225,
+          9.053922686673017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "502dcf245ec5",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66004322573005,
+          8.847352026152755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "02dcf245ec56",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.639939055023845,
+          9.025790511784432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "2dcf245ec568",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8667024530121,
+          8.917498704890045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "dcf245ec568c",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.65416874271351,
+          9.075101433246092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "cf245ec568c7",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.72388427410494,
+          8.939965407108973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "f245ec568c77",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.76061733994249,
+          8.900763013690625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "245ec568c777",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.70649504108821,
+          8.917775548856564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "45ec568c7773",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8163140071321,
+          8.901933728134491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "5ec568c77735",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.68574911685047,
+          8.86848788362679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "ec568c777356",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.71367762482569,
+          9.000639624513234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "c568c777356d",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.75539043500967,
+          9.04648839160891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "568c777356d2",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.85314948153909,
+          9.057199789244352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "68c777356d20",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.71062819179983,
+          8.943029815576523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "8c777356d201",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.65062661184516,
+          8.887019384012262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "c777356d2017",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.854462830966305,
+          8.998024126369756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "777356d20171",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.700912742205446,
+          9.052123119776162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "77356d201711",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.87625710245117,
+          8.897200234393399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "7356d201711d",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.667940184437384,
+          8.827448711613128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "356d201711dc",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.62768165017366,
+          8.89769647317316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "56d201711dc1",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81416633671757,
+          9.017109883847711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "6d201711dc1d",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.72527263146008,
+          9.0192255526203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "d201711dc1dc",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.781759679797915,
+          8.940371018126193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "201711dc1dc1",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8574851415183,
+          9.02786887052952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "01711dc1dc10",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.65720402164298,
+          8.912260574745968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "1711dc1dc10c",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81694236061351,
+          8.87599228250963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "711dc1dc10cb",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.71380274488971,
+          9.049403405685538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "11dc1dc10cbe",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.738456491048844,
+          9.027171907290803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "1dc1dc10cbe0",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81733142886282,
+          8.925225870825127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "dc1dc10cbe09",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.67482176737662,
+          8.874908359860896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "c1dc10cbe09b",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.838890271122445,
+          8.931036996118635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "1dc10cbe09b9",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.659944507105365,
+          9.013468630014167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "dc10cbe09b92",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.75356123289723,
+          9.052128675912021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "c10cbe09b928",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.870061089122714,
+          8.90824367132512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "10cbe09b9283",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81319106713795,
+          8.839303799747848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "0cbe09b9283a",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.669077397576885,
+          8.918432576691169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "cbe09b9283a9",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.83030108592427,
+          8.907576732839088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "be09b9283a95",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.85030912129557,
+          8.86753909685475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "e09b9283a953",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.64468981338691,
+          8.94479527083853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "09b9283a9538",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.74093431057626,
+          8.891569295120211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "9b9283a9538f",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.804306732599805,
+          8.961435026453218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "b9283a9538fb",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.67449140442686,
+          8.84192539437887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "9283a9538fbe",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.896107356735754,
+          8.989401699365573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "283a9538fbe8",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.904487894410124,
+          8.981744827819803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "83a9538fbe8b",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81990862589559,
+          9.042223944678023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "3a9538fbe8b2",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.687699847395216,
+          9.010654667076645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "a9538fbe8b24",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.65943805586708,
+          8.85045077669135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "9538fbe8b241",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.802237507992196,
+          8.899503052540195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "538fbe8b2417",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.80184954424144,
+          8.898331820209282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "38fbe8b24175",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.676390361014874,
+          9.015185726077066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "8fbe8b241758",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.82343005057219,
+          9.055790436731735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "fbe8b241758f",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.64540962426516,
+          8.868482934727128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "be8b241758f2",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.72911144481123,
+          9.068710766199285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "e8b241758f20",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.84547146026945,
+          8.950692292852766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "8b241758f20b",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.82722510901349,
+          9.083828579733455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "b241758f20b1",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.885291871972825,
+          8.879864904778227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "241758f20b15",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.662504235845795,
+          8.889637709533611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "41758f20b15f",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.708265520675695,
+          8.89947392264772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "1758f20b15fc",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81085517939698,
+          8.874615579887271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "758f20b15fc7",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.67735148406263,
+          8.970188130053717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "58f20b15fc77",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.730983596387276,
+          8.994535875366447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "8f20b15fc778",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.83246156156712,
+          8.829286226594114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "f20b15fc778b",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.77842554419274,
+          8.888742912175662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "20b15fc778be",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.778040260508234,
+          8.831301829921319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "0b15fc778bed",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.83021489248623,
+          8.86437412351269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "b15fc778bedd",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.662682346732836,
+          9.049780970139272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "15fc778bedd6",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.85952147743456,
+          8.952387246348335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "5fc778bedd65",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7866526450117,
+          9.071859776516021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "fc778bedd650",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.69136324934803,
+          9.063302062033857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "c778bedd6506",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.69002251575916,
+          8.980740134026876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "778bedd6506d",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.75108011995912,
+          9.00070171289878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "78bedd6506d4",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.880210009605804,
+          9.064745619918515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "8bedd6506d49",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.78274850223419,
+          9.09376784501797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "bedd6506d492",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.736424467127364,
+          9.081010850654923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "edd6506d4926",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.737816106088644,
+          8.928842987604831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "dd6506d49264",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81750645034733,
+          9.029328620553095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "d6506d492647",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66906221658291,
+          8.930892557636282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "6506d4926474",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.70569206957005,
+          8.930266890657325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "506d49264749",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81621039976271,
+          8.855244007027638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "06d492647498",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81985507998272,
+          8.986876295564338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "6d492647498e",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.72006621328546,
+          9.065543257950768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "d492647498e4",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.76802765685932,
+          9.021031941117274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "492647498e45",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.83391291000726,
+          8.97479624028018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "92647498e45c",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.70095500428087,
+          9.04072744288668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "2647498e45cf",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.77360240465808,
+          9.05492639856233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "647498e45cf1",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.905161649083915,
+          9.023983069499868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "47498e45cf1a",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.669928379840336,
+          8.849932520516772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "7498e45cf1aa",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.683284359360805,
+          8.996620545326264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "498e45cf1aa9",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7140051329868,
+          8.893618971930282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "98e45cf1aa9b",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.77408437939667,
+          8.978328501772197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "8e45cf1aa9b9",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.69988502359463,
+          9.066287098941062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "e45cf1aa9b97",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.869879007774216,
+          9.052667030213954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "45cf1aa9b974",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.753740676966,
+          8.976655049405938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "5cf1aa9b9748",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.76312117243185,
+          8.96719901719295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "cf1aa9b97484",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81558391266989,
+          8.869754455863783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "f1aa9b974846",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81494913088881,
+          8.859378333615165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "1aa9b974846e",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.86811533663763,
+          8.873165772431783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "aa9b974846e3",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.83294070210376,
+          8.996908675341002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "a9b974846e3c",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.72536153315381,
+          9.106368094427864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "9b974846e3c6",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.686972468751186,
+          9.008998949497514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "b974846e3c6e",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.846368884005095,
+          8.948881328178686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "974846e3c6e4",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66804346162214,
+          8.931255095632634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "74846e3c6e42",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.68931059419448,
+          8.948823012051607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "4846e3c6e42c",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.67528512175957,
+          8.908511054736117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "846e3c6e42c3",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.88953884739764,
+          8.948918035908223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "46e3c6e42c3f",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.88891280135795,
+          9.02548473104387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "6e3c6e42c3f5",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81893302443973,
+          8.840255680440206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "e3c6e42c3f5f",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.679090257728966,
+          8.856064042743387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "3c6e42c3f5f5",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66149541009517,
+          8.939378871469904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "c6e42c3f5f5e",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.817606199852136,
+          8.916265752280134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "6e42c3f5f5e9",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66145951102243,
+          9.08840926776028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "e42c3f5f5e95",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.67482327570686,
+          9.0737189497489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "42c3f5f5e95f",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8626113746243,
+          8.871342252752232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "2c3f5f5e95f2",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.90329235751357,
+          9.079826514139896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "c3f5f5e95f20",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.72825868908109,
+          9.086020137230594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "3f5f5e95f206",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.88996906130991,
+          8.862987085035215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "f5f5e95f2067",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.72240807478945,
+          8.981150437685804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "5f5e95f2067f",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.89863037683394,
+          9.008308680912762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "f5e95f2067f6",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.695107023481874,
+          8.974831985148777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "5e95f2067f66",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.89939858277492,
+          8.867241400576019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "e95f2067f661",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.76884666548509,
+          9.079394272598853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "95f2067f6611",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.700481187971015,
+          8.871358124770637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "5f2067f66119",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.73373613801638,
+          8.845821989746517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "f2067f661193",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81673088017668,
+          9.049649167067852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "2067f6611931",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.64586778810496,
+          8.969818116073778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "067f6611931d",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.89885396307403,
+          9.06963308383207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "67f6611931d8",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.76462882843534,
+          9.075437087713944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "7f6611931d85",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.84719169354536,
+          8.840148840029611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "f6611931d854",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.88040695377595,
+          9.01198167282225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "6611931d8549",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.88605309855647,
+          9.001079722397256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "611931d85495",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.86382007660453,
+          8.903985457380124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "11931d854953",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.81884910472259,
+          8.961722436803637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "1931d854953a",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.65945982095157,
+          9.065579761316748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "931d854953ad",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.89848844501849,
+          8.926801748252215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "31d854953adf",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.721975380696584,
+          8.991164988531219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "1d854953adf2",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6733924387703,
+          9.044604774422707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "d854953adf2c",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.836952748536405,
+          8.928617902993635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "854953adf2cc",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8434962367976,
+          9.09495343415861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "54953adf2cca",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.675922909271634,
+          9.06570213756567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "4953adf2cca9",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.82569490885868,
+          8.914620074383542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "953adf2cca94",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.78273517193485,
+          8.930182541980388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "53adf2cca94d",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.705380832549324,
+          8.884976816989802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "3adf2cca94d3",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.71035281136143,
+          8.885888329260139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "adf2cca94d30",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.68744432263572,
+          8.90627602062228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "df2cca94d304",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.888579442096805,
+          8.86269707974838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "f2cca94d3048",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.64713012573405,
+          9.06620284689898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "2cca94d30486",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.663838446538605,
+          8.884113251270223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "cca94d304862",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.80913275905991,
+          9.078181482388567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "ca94d3048625",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.757450511887875,
+          9.08470178454983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "a94d3048625f",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.80778988451455,
+          9.015845680306889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "94d3048625f3",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.85331497919482,
+          9.032102316037601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "4d3048625f37",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.671526748322705,
+          8.891833779036373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "d3048625f374",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.76128421687344,
+          8.990909907363319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "3048625f3741",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66594179154807,
+          8.96835210925747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "048625f3741e",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.782924659999146,
+          8.983417249588207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "48625f3741e0",
+        "status": "offline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.69813776116085,
+          8.936508112237252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "8625f3741e06",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.82901271040735,
+          8.92147556628617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "625f3741e06f",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.699082133575224,
+          8.92633155741699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "25f3741e06f6",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.632285993211056,
+          8.885348305284653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "5f3741e06f62",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.72605330135469,
+          8.872809275115026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "f3741e06f620",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.74934596627381,
+          9.023244170269466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "driver_id": "3741e06f6200",
+        "status": "online"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.76697060848495,
+          8.940297608811452
+        ]
+      }
+    }
+  ]
+}
